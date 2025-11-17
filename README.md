@@ -4,9 +4,11 @@
 This project focusses on analyzing the sales in different regions using a comprehensive Kaggle Superstore dataset. The objective is to identify which products were sold the most, which regions or customer segments are most profitable and what are the monthly/seasonal trends in sales and profit.
 # 1. Objectives
 •	Sales by Category: Examine the total sales over different products
-•	Profit by Region: Calculate the total profit over different regions such as North, South, East and   
-•	West region
+
+•	Profit by Region: Calculate the total profit over different regions such as North, South, East and West region
+
 •	Top 10 Products: Investigate Top 10 products sold
+
 •	Sales over Time: Identify monthly sales trend
 
 # 2. Methodology
