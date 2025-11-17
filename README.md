@@ -10,8 +10,8 @@ This project focusses on analyzing the sales in different regions using a compre
 •	Sales over Time: Identify monthly sales trend
 
 # 2. Methodology
-   Data Preparation: 
-  Cleaned the dataset by checking the missing values, removed the duplicates, fixed the data    
+   # Data Preparation: 
+   Cleaned the dataset by checking the missing values, removed the duplicates, fixed the data    
    types, removed outliers to check extreme values in Sales or Profit and confirmed the clean-  
    up.
  
