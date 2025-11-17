@@ -19,8 +19,11 @@ This project focusses on analyzing the sales in different regions using a compre
  
  #  Exploratory Data Analysis (EDA):
 •	Extracted year and month for trend analysis and verified new columns
+
 •	Analyzed the sales and profit data by generating summary statistics, including totals,    
+
 •	averages, and distribution metrics. The results offered a comprehensive view of financial  
+
 •	performance across products and periods.
 
   #  To obtain the top-selling products:
