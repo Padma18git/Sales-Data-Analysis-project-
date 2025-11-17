@@ -75,11 +75,11 @@ This project focusses on analyzing the sales in different regions using a compre
 •	Top Products by Sales (bar)
 
  # Added KPIs with Results
-•	Total Sales = SUM(Sales) = $2.3M
+•	Total Sales = SUM(Sales) = # $2.3M
 
-•	Total Profit = SUM(Profit)= $290K
+•	Total Profit = SUM(Profit)= # $290K
 
-•	Profit Margin = Profit / Sales= 12.4%
+•	Profit Margin = Profit / Sales= # 12.4%
 
 # 6. Conclusion 
 The sales data analysis revealed clear patterns in product performance, regional profitability, and monthly sales trends. These insights can help guide better decision-making in forecasting, inventory planning, and targeting high-value markets. 
