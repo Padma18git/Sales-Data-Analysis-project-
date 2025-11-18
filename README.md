@@ -8,8 +8,11 @@ This project analyzes a Kaggle “Superstore” dataset to answer:
 
 # 1. Objectives
 -Sales by Category: Examine the total sales over different products
+
 -Profit by Region: Calculate the total profit over different regions such as North, South, East and West region
+
 -Top 10 Products: Investigate Top 10 products sold
+
 -Sales over Time: Identify monthly sales trend
 
 # 2. Methodology
@@ -34,13 +37,10 @@ This project analyzes a Kaggle “Superstore” dataset to answer:
          -This helped identify which regions generated the highest profitability and which underperformed.   
 
   #  To identify sales trend over time: Time series analysis of monthly sales and profit
-         •	Converted dates into a monthly (Month-Year) format
-         
-         •	Calculated total sales for each month
-         
-         •	Sorted the months in chronological order
-         
-         •	This analysis highlighted seasonal patterns, spikes in demand, and months with lower performance.  
+         -Converted dates into a monthly (Month-Year) format
+         -Calculated total sales for each month
+         -Sorted the months in chronological order
+         -This analysis highlighted seasonal patterns, spikes in demand, and months with lower performance.  
 
 # 3. Visualizations
 •	Aggregated sales by Month-Year to create a monthly sales trend analysis. This helped identify seasonal patterns, monthly fluctuations, and overall sales growth.
@@ -61,7 +61,7 @@ This project analyzes a Kaggle “Superstore” dataset to answer:
 - Total Profit = SUM(Profit)= **$290K**
 - Profit Margin = Profit / Sales= **12.4%**
   
-# 6. Conclusion 
+# 5. Conclusion 
 The sales data analysis revealed clear patterns in product performance, regional profitability, and monthly sales trends. These insights can help guide better decision-making in forecasting, inventory planning, and targeting high-value markets. 
  
 
