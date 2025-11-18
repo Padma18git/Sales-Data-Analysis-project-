@@ -7,13 +7,10 @@ This project analyzes a Kaggle “Superstore” dataset to answer:
 - What are the monthly / seasonal sales trends?
 
 # 1. Objectives
-•	Sales by Category: Examine the total sales over different products
-
-•	Profit by Region: Calculate the total profit over different regions such as North, South, East and West region
-
-•	Top 10 Products: Investigate Top 10 products sold
-
-•	Sales over Time: Identify monthly sales trend
+-Sales by Category: Examine the total sales over different products
+-Profit by Region: Calculate the total profit over different regions such as North, South, East and West region
+-Top 10 Products: Investigate Top 10 products sold
+-Sales over Time: Identify monthly sales trend
 
 # 2. Methodology
    # 2.1 Data Preparation: 
@@ -26,20 +23,15 @@ This project analyzes a Kaggle “Superstore” dataset to answer:
    
    # 2.3 Exploratory Data Analysis (EDA):   
    # Top-selling products: Top 10 products by sales and Total sales and profit by product category 
-         •	Grouped the data by product name
-         
-         •	Calculated total sales for each product
-         
-         •	Sort the products in descending order   
+         -Grouped the data by product name         
+         -Calculated total sales for each product         
+         -Sort the products in descending order   
 
   # To investigate profit by region: Profit by region  
-         •	Grouped the data by region
-         
-         •	Calculated total profit for each region
-         
-         •	Selected the region with the highest profit
-         
-         •	This helped identify which regions generated the highest profitability and which underperformed.   
+         -Grouped the data by region
+         -Calculated total profit for each region
+         -Selected the region with the highest profit
+         -This helped identify which regions generated the highest profitability and which underperformed.   
 
   #  To identify sales trend over time: Time series analysis of monthly sales and profit
          •	Converted dates into a monthly (Month-Year) format
@@ -60,18 +52,14 @@ This project analyzes a Kaggle “Superstore” dataset to answer:
 •	Ranked all products by total sales and selected the top 10 highest-performing items. This highlighted which products generated the most revenue and drove overall sales performance.
 
 # 4. Key Insights
-- The top 10 products (by sales) contributed **12.4%** of total revenue
-- 
-- The **West** region has the highest profit margin
-- 
+- The top 10 products (by sales) contributed **12.4%** of total revenue  
+- The **West** region has the highest profit margin  
 - There is a **seasonal trend**: sales peak in **November** and dip in **June**
   
 # Added KPIs with Results
-•	Total Sales = SUM(Sales) = **$2.3M**
-
-•	Total Profit = SUM(Profit)= **$290K**
-
-•	Profit Margin = Profit / Sales= **12.4%**
+- Total Sales = SUM(Sales) = **$2.3M**
+- Total Profit = SUM(Profit)= **$290K**
+- Profit Margin = Profit / Sales= **12.4%**
   
 # 6. Conclusion 
 The sales data analysis revealed clear patterns in product performance, regional profitability, and monthly sales trends. These insights can help guide better decision-making in forecasting, inventory planning, and targeting high-value markets. 
